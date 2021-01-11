@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="masini">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store/masini.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
